@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.823f3d7d.chunk.css",
+    "main.js": "/static/js/main.189b80c8.chunk.js",
+    "main.js.map": "/static/js/main.189b80c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.549be430.js",
+    "runtime-main.js.map": "/static/js/runtime-main.549be430.js.map",
+    "static/js/2.35d6fb39.chunk.js": "/static/js/2.35d6fb39.chunk.js",
+    "static/js/2.35d6fb39.chunk.js.map": "/static/js/2.35d6fb39.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f68cf5f89d22460eaf0ea963d5c6685f.js": "/precache-manifest.f68cf5f89d22460eaf0ea963d5c6685f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.823f3d7d.chunk.css.map": "/static/css/main.823f3d7d.chunk.css.map",
+    "static/js/2.35d6fb39.chunk.js.LICENSE.txt": "/static/js/2.35d6fb39.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/digital-7.1e670d88.ttf",
+    "static/media/alarm.mp3": "/static/media/alarm.0919823e.mp3",
+    "static/media/break-time.mp3": "/static/media/break-time.be4257c1.mp3",
+    "static/media/font-awesome.css": "/static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/ticToc.mp3": "/static/media/ticToc.c7d07465.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.549be430.js",
+    "static/js/2.35d6fb39.chunk.js",
+    "static/css/main.823f3d7d.chunk.css",
+    "static/js/main.189b80c8.chunk.js"
+  ]
+}
